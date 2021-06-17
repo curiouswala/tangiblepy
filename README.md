@@ -39,6 +39,8 @@ The plugin system is based on pluggy.
 * Web UI plugin using flask
 * Add support for live-coding
 * Add support for rustpad.io 
+* Device Auto-Discovery
+* Support arrow keys in the shell
 
 # Made by
 * [Hasan](https://curiouswala.com/)
