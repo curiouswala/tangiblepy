@@ -32,7 +32,7 @@ The plugin system is based on pluggy.
 * Web UI plugin using flask
 
 # Made by
-* Hasan (curiouswala.com)
-* Gaurav (gauravn.com)
+* [Hasan](curiouswala.com)
+* [Gaurav](gauravn.com)
 
 
