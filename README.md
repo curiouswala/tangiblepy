@@ -31,4 +31,8 @@ The plugin system is based on pluggy.
 * Add plugin tutorial
 * Web UI plugin using flask
 
+# Made by
+* Hasan (curiouswala.com)
+* Gaurav (gauravn.com)
+
 
