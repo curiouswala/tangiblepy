@@ -7,7 +7,7 @@ The plugin system is based on pluggy.
 
 # Supported Devices
   * ESP32
-To be added
+## To be added
   * ESP8266
   * Pi Pico
   * Pi Zero W
