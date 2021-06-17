@@ -41,6 +41,7 @@ The plugin system is based on pluggy.
 * Add support for rustpad.io 
 * Device Auto-Discovery
 * Support arrow keys in the shell
+* Multi-Device support
 
 # Made by
 * [Hasan](https://curiouswala.com/)
