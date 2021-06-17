@@ -1,0 +1,9 @@
+loguru
+pluggy
+requests
+progress
+tinydb
+adafruit-ampy
+webrepl
+esptool
+watchdog
