@@ -24,8 +24,8 @@ The plugin system is based on pluggy.
 * shell - ampy2.py shell
 * cp - ampy2.py cp source device:destination (put files)
 * cp - ampy2.py cp device:source destination (get files)
-* mkdir = ampy2.py mkdir <folder_name>
-* connect = ampy2.py connect device_name device_pin ssid password ip 
+* mkdir - ampy2.py mkdir <folder_name>
+* connect - ampy2.py connect device_name device_pin ssid password ip 
 
 # TODO
 * PYPI launch
