@@ -20,3 +20,15 @@ The plugin system is based on pluggy.
   * sudo python3 ampy2.py setup
   * sudo python3 ampy2.py ls 
 
+# TODO
+* PYPI launch
+* Windows support
+* Mac support
+* GUI plugin
+* EXE file
+* Portable version
+* Add example plugin 
+* Add plugin tutorial
+* Web UI plugin using flask
+
+
