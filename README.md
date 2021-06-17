@@ -37,6 +37,7 @@ The plugin system is based on pluggy.
 * Add example plugin 
 * Add plugin tutorial
 * Web UI plugin using flask
+* Add support for rustpad.io 
 
 # Made by
 * [Hasan](https://curiouswala.com/)
