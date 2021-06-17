@@ -12,3 +12,11 @@ The plugin system is based on pluggy.
   * Pi Pico
   * Pi Zero W
 
+# Installation
+  * Download
+  * pip install requirements.txt
+
+# Usage
+  * sudo python3 ampy2.py setup
+  * sudo python3 ampy2.py ls 
+
