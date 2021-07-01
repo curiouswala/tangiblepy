@@ -1,7 +1,7 @@
+#!/usr/bin/env python
 import pluggy
 from core_plugins import core, device_detector
 from core_plugins.configure import Config
-from specs import hookspec
 import sys
 from plugins import esp32_plugin, pico_plugin, esp8266_plugin, db_storage
 import os
@@ -27,7 +27,6 @@ def device_setup(config):
 
 def main():
 	pm = pluggy.PluginManager('ampy2')
-	pm.add_hookspecs(hookspec)
 	for plugin in PLUGINS_LIST:
 		pm.register(plugin)
 	# pm.check_pending()
