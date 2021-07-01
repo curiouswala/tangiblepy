@@ -17,15 +17,15 @@ The plugin system is based on pluggy.
   * pip install requirements.txt
 
 # Usage
-* setup device - sudo python3 ampy2.py setup
-* remove file/folder - ampy2.py rm <file_name> or <folder_name>
-* run - ampy2.py run <file_name>
-* ls - ampy2.py ls or ls <folder_name>
-* shell - ampy2.py shell
-* cp - ampy2.py cp source device:destination (put files)
-* cp - ampy2.py cp device:source destination (get files)
-* mkdir - ampy2.py mkdir <folder_name>
-* connect - ampy2.py connect device_name device_pin ssid password ip 
+* setup device -> sudo ./tpy setup
+* remove file/folder -> ./tpy rm <file_name> or <folder_name>
+* run -> ./tpy run <file_name>
+* ls -> ./tpy ls or ls <folder_name>
+* shell -> ./tpy shell
+* cp -> ./tpy cp source device:destination (put files)
+* cp -> ./tpy cp device:source destination (get files)
+* mkdir -> ./tpy mkdir <folder_name>
+* connect -> ./tpy connect device_name device_pin ssid password ip 
 
 # TODO
 * PYPI launch
