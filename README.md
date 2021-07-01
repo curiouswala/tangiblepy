@@ -14,7 +14,8 @@ The plugin system is based on pluggy.
 
 # Installation
   * Download
-  * pip install requirements.txt
+  * pip install -r requirements.txt
+  * sudo pip install -r requirements.txt
 
 # Usage
 * setup device -> sudo ./tpy setup
