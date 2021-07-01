@@ -1,1 +1,1 @@
-{"_default": {"1": {"type": "wifi", "SSID": "beware", "password": "radinet@123", "device_pin": "1234", "ip_address": "192.168.1.44", "device_name": "esp32"}}}
+{"_default": {"1": {"type": "wifi", "SSID": "thunder", "password": "thunder@1437", "device_pin": "1234", "ip_address": "192.168.0.193", "device_name": "esp32"}}}

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 import pluggy
 from core_plugins import core, device_detector
 from core_plugins.configure import Config
