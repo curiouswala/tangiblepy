@@ -7,14 +7,7 @@ import os
 import subprocess as sp
 
 
-
-
-
 hookimpl = pluggy.HookimplMarker('ampy2')
-
-
-
-
 
 
 @hookimpl
@@ -32,8 +25,6 @@ def detector_plugin(config):
 
 
 	device_name = input(">> Select Device Type (1): ").strip()
-
-
 
 
 	print("Serial_Ports:")
