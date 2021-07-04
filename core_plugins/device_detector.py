@@ -19,6 +19,7 @@ hookimpl = pluggy.HookimplMarker('ampy2')
 
 @hookimpl
 def detector_plugin(config):
+
 	device_list = ['esp32']
 	import serial.tools.list_ports
 
@@ -51,14 +52,10 @@ def detector_plugin(config):
 	if serial_port == '':
 		serial_port = port_list[0].device
 	else:
-		serial_port = port_list[int(serial_port)-1]
+		serial_port = port_list[int(serial_port)-1].device
 
 	config.store['device'] = device_name
 	config.store['serial_port'] = serial_port
-
-
-
-	
 
 
 @hookimpl
